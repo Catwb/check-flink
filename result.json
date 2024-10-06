@@ -1,0 +1,28 @@
+{
+    "timestamp": "2024-10-06 21:22:19",
+    "accessible_count": 4,
+    "inaccessible_count": 0,
+    "total_count": 4,
+    "link_status": [
+        {
+            "name": "Mo的记事本",
+            "link": "https://blog.xiowo.net/",
+            "latency": 0.54
+        },
+        {
+            "name": "Theme NexT",
+            "link": "https://theme-next.js.org/",
+            "latency": 0.09
+        },
+        {
+            "name": "PeterJXL",
+            "link": "https://www.peterjxl.com/",
+            "latency": 0.52
+        },
+        {
+            "name": "梦爱吃鱼",
+            "link": "https://blog.bsgun.cn/",
+            "latency": 0.84
+        }
+    ]
+}
