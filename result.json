@@ -1,0 +1,33 @@
+{
+    "timestamp": "2024-11-03 15:52:03",
+    "accessible_count": 5,
+    "inaccessible_count": 0,
+    "total_count": 5,
+    "link_status": [
+        {
+            "name": "Mo的记事本",
+            "link": "https://blog.xiowo.net/",
+            "latency": 0.63
+        },
+        {
+            "name": "PeterJXL",
+            "link": "https://www.peterjxl.com/",
+            "latency": 0.49
+        },
+        {
+            "name": "梦爱吃鱼",
+            "link": "https://blog.bsgun.cn/",
+            "latency": 0.38
+        },
+        {
+            "name": "糖菓·部落",
+            "link": "https://candinya.com/",
+            "latency": 0.14
+        },
+        {
+            "name": "陆小启",
+            "link": "https://lxqxm.top/",
+            "latency": 1.38
+        }
+    ]
+}
