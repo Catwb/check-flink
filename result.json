@@ -1,0 +1,58 @@
+{
+    "timestamp": "2025-01-30 18:21:01",
+    "accessible_count": 10,
+    "inaccessible_count": 0,
+    "total_count": 10,
+    "link_status": [
+        {
+            "name": "Mo的记事本",
+            "link": "https://blog.xiowo.net/",
+            "latency": 0.66
+        },
+        {
+            "name": "PeterJXL",
+            "link": "https://www.peterjxl.com/",
+            "latency": 0.59
+        },
+        {
+            "name": "梦爱吃鱼",
+            "link": "https://blog.bsgun.cn/",
+            "latency": 0.6
+        },
+        {
+            "name": "糖菓·部落",
+            "link": "https://candinya.com/",
+            "latency": 0.2
+        },
+        {
+            "name": "陆小启",
+            "link": "https://lxqxm.top/",
+            "latency": -1
+        },
+        {
+            "name": "无名博客",
+            "link": "https://wuminboke.site/",
+            "latency": 0.15
+        },
+        {
+            "name": "胜天半子",
+            "link": "https://blog.291055.xyz/",
+            "latency": 0.41
+        },
+        {
+            "name": "XingJiのBlog",
+            "link": "https://love.xingji.fun/",
+            "latency": 0.51
+        },
+        {
+            "name": "小奥のblog",
+            "link": "https://www.aokaoka.top/",
+            "latency": 0.18
+        },
+        {
+            "name": "Qrasa的小站",
+            "link": "https://blog.qrasa.cn/",
+            "latency": 2.21
+        }
+    ]
+}
